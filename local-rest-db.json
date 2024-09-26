@@ -1,0 +1,33 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Angel",
+            "lastname": "Motta",
+            "email": "angelmotta@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Mayra",
+            "lastname": "Chavez",
+            "email": "mchavez@gmail.com"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "text": "Docker",
+            "user_id": 1
+        },
+        {
+            "id": 2,
+            "text": "balance",
+            "user_id": 2
+        },
+        {
+            "id": 3,
+            "text": "coding",
+            "user_id": 1
+        }
+    ]
+}
